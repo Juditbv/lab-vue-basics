@@ -2,12 +2,12 @@
 </script>
 
 <template>
-	<header>header</header>
+	<nav>Nav</nav>
 </template>
 
 
 <style scoped>
-	header {
-		text-align: center;
-	}
+	/* header {
+					text-align: center;
+				} */
 </style>
