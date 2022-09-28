@@ -6,9 +6,7 @@
 
 <template>
 	<h3>iteration 3</h3>
-	<div v-if="hello">
-		<p>Hello my Name is Judit</p>
-	</div>
+	<p v-if="hello">Hello my Name is Judit</p>
 </template>
 
 
