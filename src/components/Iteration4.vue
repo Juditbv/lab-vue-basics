@@ -35,7 +35,11 @@
 	</div>
 
 	<h3>iteration 5</h3>
-	<button @click="changeBg = 'bg-2'">change color cards</button>
+	<button
+		@click="changeBg === 'bg-1' ? (changeBg = 'bg-2') : (changeBg = 'bg-1')"
+	>
+		change color cards
+	</button>
 </template>
 
 
