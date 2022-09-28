@@ -7,7 +7,7 @@
 
 
 <style scoped>
-	/* header {
-					text-align: center;
-				} */
+	nav {
+		text-align: center;
+	}
 </style>
