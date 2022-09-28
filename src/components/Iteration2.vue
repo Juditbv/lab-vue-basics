@@ -8,11 +8,11 @@
 
 <template>
 	<div>
-		<h3>iteration 1</h3>
+		<h3>iteration 2</h3>
 		<p>{{ string() }}</p>
 	</div>
 </template>
 
 
-<style lang="scss" scoped>
+<style scoped>
 </style>
